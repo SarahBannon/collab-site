@@ -1,0 +1,30 @@
+<style>
+body {text-align: center;
+}
+ h1 {text-align: center;
+ color: #266F3F;
+ font-family: helvetica;
+ font-size: 50px;
+ border-bottom: thick lightblue dotted;
+ }
+ h2 {text-align: center;
+ color: #A4140E;
+ font-family: monospace;
+}
+ul {
+  text-align: center;
+  padding: 15px;
+  background: lightyellow;
+  }
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+a {
+  color: black;
+}
+p {text-align: center;
+color:lightblue;
+font-size: 20px;
+}
+</style>
