@@ -1,11 +1,6 @@
 <style>
 body {text-align: center;
 }
- title {text-align: center;
- color: #E2300A
-font-family: palatino;
-font-size: 70px;
-}
  h1 {text-align: center;
  color: #266F3F;
  font-family: helvetica;
@@ -29,7 +24,6 @@ a {
   color: black;
 }
 p {text-align: center;
-color:lightblue;
+color: black;
 font-size: 20px;
-}
 </style>
