@@ -1,6 +1,12 @@
 <style>
 body {text-align: center;
 }
+nav{
+  color: white
+  margin-top: -10px
+  margin-left: -20px
+}
+}
  h1 {text-align: center;
  color: #266F3F;
  font-family: helvetica;
